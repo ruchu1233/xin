@@ -1,0 +1,10 @@
+.main h2{text-align: center;padding-top:90px;} 
+.main .m_1{height:276px;padding:61px 0;}
+.main .m_1 li{width: 360px;height: 128px;background: url(../images/ser-bg.png) no-repeat;float:left;padding:0 20px 20px 0;}
+.main .icon1{width: 65px;height: 123px;float:left;background-color:#EE5742;background-image: url(../images/s-icons.png);background-repeat: no-repeat;background-position: 17px 43px;}
+.main .icon2{width: 65px;height: 123px;float:left;background-color:#EE5742;background-image: url(../images/s-icons.png);background-repeat: no-repeat;background-position: -65px 43px;}
+.main .icon3{width: 65px;height: 123px;float:left;background-color:#EE5742;background-image: url(../images/s-icons.png);background-repeat: no-repeat;background-position: -145px 43px;}
+.main .icon4{width: 65px;height: 123px;float:left;background-color:#EE5742;background-image: url(../images/s-icons.png);background-repeat: no-repeat;background-position: 22px -74px;}
+.main .icon5{width: 65px;height: 123px;float:left;background-color:#EE5742;background-image: url(../images/s-icons.png);background-repeat: no-repeat;background-position: -64px -69px;}
+.main .icon6{width: 65px;height: 123px;float:left;background-color:#EE5742;background-image: url(../images/s-icons.png);background-repeat: no-repeat;background-position: -141px -69px;}
+.m_1 li .right{width:263px;height:99px ;float:left;padding:24px 0 0 24px;}

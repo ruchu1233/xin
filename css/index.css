@@ -1,0 +1,30 @@
+.banner{height:520px;background:url(../images/bg.jpg) no-repeat center top ;}
+.main .m_1{height:276px;padding:70px 0;border-bottom:3px double #ddd;}
+.main .m_1 li{width:360px;height:128px;background:url(../images/ser-bg.png) no-repeat;float:left;padding:0 20px 20px 0;}
+.main .icon1{width: 65px;height: 123px;float:left;background-color:#EE5742;background-image: url(../images/s-icons.png);background-repeat: no-repeat;background-position: 17px 43px;}
+.main .icon2{width: 65px;height: 123px;float:left;background-color:#EE5742;background-image: url(../images/s-icons.png);background-repeat: no-repeat;background-position: -65px 43px;}
+.main .icon3{width: 65px;height: 123px;float:left;background-color:#EE5742;background-image: url(../images/s-icons.png);background-repeat: no-repeat;background-position: -145px 43px;}
+.main .icon4{width: 65px;height: 123px;float:left;background-color:#EE5742;background-image: url(../images/s-icons.png);background-repeat: no-repeat;background-position: 22px -74px;}
+.main .icon5{width: 65px;height: 123px;float:left;background-color:#EE5742;background-image: url(../images/s-icons.png);background-repeat: no-repeat;background-position: -64px -69px;}
+.main .icon6{width: 65px;height: 123px;float:left;background-color:#EE5742;background-image: url(../images/s-icons.png);background-repeat: no-repeat;background-position: -141px -69px;}
+.m_1 li .right{width:263px;height:99px ;float:left;padding:24px 0 0 24px;}
+.m_1 li .right h3{height:26px;line-height:26px ;font-size:14px ;}
+.m_1 li .right p{line-height:20px;font-size: 12px;color:#a0a0a0;}
+.m_2{width:1135px;height:131px ;margin:56px 0;border-left:5px solid #E9270E;background-color:#eee;}
+.m_2 dl{height:56px;float:left;}
+.m_2 dt{width:904px;font-color:#303030;font-size: 14px;line-height:32px;padding:34px 0 0 30px;}
+.m_2 dd{width:904px;font-size: 12px;color:#979797;line-height: 26px;padding-left:30px;}
+.m_2 .buttom{text-align:center;width:125px;height:56px;background:#ed5844;font-size: 14px;color:#fffbf8;font-weight:bold;margin:39px 44px 34px 0px;border-radius:4px;cursor: pointer;}
+.m_3{position:relative;height:575px;border-top:3px double #dddddd;border-bottom:3px double #dddddd;}
+.m_3 h3{position:absolute;left:0px;top:-59px;width:153px;height:108px;line-height:108px;background-color:#ffffff;font-size: 17px;color:#323337;}
+.m_3 ul{height:526px;margin-top:49px;}
+.m_3 li{width:247px;height:440px;padding:14px;float:left;background-color:#eeeeee;margin-right:12px;}
+.m_3 li .pic{height:310px;position:relative;}
+.m_3 li .pic img{width:247px;height:310px;}
+.m_3 li .pic .pc{width: 250px;height:27px;position:absolute;bottom:0;}
+.m_3 li .pic .pc_left{width: 112px;height:27px;float:left;padding-left:21px;line-height: 27px;font-size: 12px;font-weight: bold;background-color:#ed5844;color:#fff;}
+.m_3 li .pic .pc_mid{width:27px;height:27px;float:right;background-image: url(../images/s-icons.png);}
+.m_3 .last{margin-right:0;}
+.m_3 dl{text-align: center;}
+.m_3 dt{padding-top:3px;height:46px;line-height:46px;font-size:14px;color:#1f2235;border-bottom:1px solid #e7e7e7;}
+.m_3 dd{padding-top:8px;height:70px;line-height: 23px;font-size: 12px;color:#a5a5a5;}

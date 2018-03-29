@@ -1,0 +1,7 @@
+.main{text-align: center;}
+.main h2{height:96px;line-height: 96px;font-size: 30px;font-weight:normal;padding-top:57px;}
+.main p{line-height: 34px;color:#a2a2a2;font-size: 12px;padding:0 158px;padding-bottom: 31px;}
+.main .text{width: 335px;height:47px;background-color:#ededed;border:1px solid #dcdbe0;line-height: 47px;font-size: 16px;color:#b0b0b0;padding:0 17px;}
+.main textarea{width: 1115px;height: 248px;background-color:#ededed;border:1px solid #dcdbe0;line-height: 47px;font-size: 16px;color:#b0b0b0;margin:24px 0 45px;}
+.main .submit{width:225px;height:57px;background:#ed5844;line-height:57px;box-shadow: 0 0 8px rgba(0,0,0,0.4);font-size: 15px;color:#fffbf8;font-weight:bolder;border-radius:4px;cursor: pointer;margin-bottom: 42px;}
+
